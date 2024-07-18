@@ -1,0 +1,10 @@
+[32mINFO    [0m selenium:webdriver_listener.py:19 Navigating to http://webdriveruniversity.com/File-Upload/index.html
+[32mINFO    [0m selenium:webdriver_listener.py:22 http://webdriveruniversity.com/File-Upload/index.html opened
+[32mINFO    [0m selenium:webdriver_listener.py:25 Searching for element by xpath //input[@type='file']
+[32mINFO    [0m selenium:webdriver_listener.py:28 Element by xpath //input[@type='file'] found
+[32mINFO    [0m selenium:webdriver_listener.py:43 None value changed
+[32mINFO    [0m selenium:webdriver_listener.py:25 Searching for element by id submit-button
+[32mINFO    [0m selenium:webdriver_listener.py:28 Element by id submit-button found
+[32mINFO    [0m selenium:webdriver_listener.py:43 None value changed
+[32mINFO    [0m selenium:webdriver_listener.py:46 Driver quitting
+[32mINFO    [0m selenium:webdriver_listener.py:49 Driver quitted

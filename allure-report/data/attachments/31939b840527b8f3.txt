@@ -1,0 +1,14 @@
+[32mINFO    [0m selenium:webdriver_listener.py:19 Navigating to https://webdriveruniversity.com/To-Do-List/index.html
+[32mINFO    [0m selenium:webdriver_listener.py:22 https://webdriveruniversity.com/To-Do-List/index.html opened
+[32mINFO    [0m selenium:webdriver_listener.py:25 Searching for element by css selector ul li
+[32mINFO    [0m selenium:webdriver_listener.py:28 Element by css selector ul li found
+[32mINFO    [0m selenium:webdriver_listener.py:32 Clicking on 
+[32mINFO    [0m selenium:webdriver_listener.py:38 completed clicked
+[32mINFO    [0m selenium:webdriver_listener.py:32 Clicking on 
+[32mINFO    [0m selenium:webdriver_listener.py:38 completed clicked
+[32mINFO    [0m selenium:webdriver_listener.py:32 Clicking on 
+[32mINFO    [0m selenium:webdriver_listener.py:38 completed clicked
+[32mINFO    [0m selenium:webdriver_listener.py:25 Searching for element by css selector li[class*='completed']
+[32mINFO    [0m selenium:webdriver_listener.py:28 Element by css selector li[class*='completed'] found
+[32mINFO    [0m selenium:webdriver_listener.py:46 Driver quitting
+[32mINFO    [0m selenium:webdriver_listener.py:49 Driver quitted

@@ -1,0 +1,23 @@
+[32mINFO    [0m selenium:webdriver_listener.py:19 Navigating to http://webdriveruniversity.com/Contact-Us/contactus.html
+[32mINFO    [0m selenium:webdriver_listener.py:22 http://webdriveruniversity.com/Contact-Us/contactus.html opened
+[32mINFO    [0m selenium:webdriver_listener.py:25 Searching for element by name first_name
+[32mINFO    [0m selenium:webdriver_listener.py:28 Element by name first_name found
+[32mINFO    [0m selenium:webdriver_listener.py:25 Searching for element by name last_name
+[32mINFO    [0m selenium:webdriver_listener.py:28 Element by name last_name found
+[32mINFO    [0m selenium:webdriver_listener.py:25 Searching for element by name message
+[32mINFO    [0m selenium:webdriver_listener.py:28 Element by name message found
+[32mINFO    [0m selenium:webdriver_listener.py:25 Searching for element by name email
+[32mINFO    [0m selenium:webdriver_listener.py:28 Element by name email found
+[32mINFO    [0m selenium:webdriver_listener.py:43 None value changed
+[32mINFO    [0m selenium:webdriver_listener.py:43 None value changed
+[32mINFO    [0m selenium:webdriver_listener.py:43 None value changed
+[32mINFO    [0m selenium:webdriver_listener.py:43 None value changed
+[32mINFO    [0m selenium:webdriver_listener.py:25 Searching for element by css selector [value='SUBMIT']
+[32mINFO    [0m selenium:webdriver_listener.py:28 Element by css selector [value='SUBMIT'] found
+[32mINFO    [0m selenium:webdriver_listener.py:32 Clicking on contact_button
+[32mINFO    [0m selenium:webdriver_listener.py:25 Searching for element by css selector div h1
+[32mINFO    [0m selenium:webdriver_listener.py:28 Element by css selector div h1 found
+[32mINFO    [0m selenium:webdriver_listener.py:25 Searching for element by css selector div h1
+[32mINFO    [0m selenium:webdriver_listener.py:28 Element by css selector div h1 found
+[32mINFO    [0m selenium:webdriver_listener.py:46 Driver quitting
+[32mINFO    [0m selenium:webdriver_listener.py:49 Driver quitted
