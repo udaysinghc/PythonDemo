@@ -1,5 +1,3 @@
-import time
-
 import allure
 import pytest
 
@@ -8,6 +6,9 @@ from pages.university_contact_us.contact_us import ContactUs
 
 @pytest.mark.usefixtures("setup")
 class TestContactUs:
+
+    def __init__(self):
+        self.driver = None
 
     @allure.title("check contactus form filed")
     @allure.description("Verify that contactus form default are empty")
@@ -62,7 +63,6 @@ class TestContactUs:
         contact_us.fill_contact_form("test.com@gmail.com")
         contact_us.verify_pre_filled_values()
 
-
     @allure.title("Reset button is active")
     @allure.description("Verify that the Reset button is active and click on it")
     def test_reset_button(self):
@@ -79,5 +79,3 @@ class TestContactUs:
         self.test_reset_button()
         contact_us = ContactUs(self.driver)
         contact_us.verify_fields_after_reset()
-
-

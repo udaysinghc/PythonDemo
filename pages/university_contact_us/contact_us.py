@@ -1,5 +1,3 @@
-import time
-
 import allure
 from faker import Faker
 from selenium.common import StaleElementReferenceException
