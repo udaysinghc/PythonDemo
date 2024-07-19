@@ -7,9 +7,6 @@ from pages.university_contact_us.contact_us import ContactUs
 @pytest.mark.usefixtures("setup")
 class TestContactUs:
 
-    def __init__(self):
-        self.driver = None
-
     @allure.title("check contactus form filed")
     @allure.description("Verify that contactus form default are empty")
     def test_contactus_empty_filed(self):
